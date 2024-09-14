@@ -4,8 +4,8 @@
 This project focuses on developing a deep learning model for the classification of skin lesions, with the ultimate objective of diagnosing various skin conditions. 
 Key aspects of the project include:
 
-1.Utilizing a dataset that includes patient/demographic details such as gender, age, lesion location on the body, along with images and lesion IDs. 
-2.Data preprocessing and exploration, including filtering image files based on file extension and mapping lesion types to their corresponding categories for analysis and model training. 
+1.Utilizing a dataset that includes patient/demographic details such as gender, age, lesion location on the body, along with images and lesion IDs.       
+2.Data preprocessing and exploration, including filtering image files based on file extension and mapping lesion types to their corresponding categories for analysis and model training.         
 3.Implementing a pretrained ResNetX101 model with data augmentation techniques to improve robustness and avoid overfitting.  
 4.Dividing the dataset into validation and training sets to assess model performance.  
 5.Tracking metrics like training loss and validation accuracy during the training phase.  
